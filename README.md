@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hlamulo-Muhlarhi
-- 👀 I’m interested in ...IT software development
-- 🌱 I’m currently learning ...System Development
-- 💞️ I’m looking to collaborate on ... JAVA and C++
-- 📫 How to reach me ... you csan reach me at my email... hlamulomoshwana@gmail.com
+- 👀 I’m interested in ...IT software development/ Data Analyst
+- 🌱 I’m currently studying ...System Development
+- 💞️ I’m looking to collaborate on ... JAVA and MySQL
+- 📫 How to reach me ... you can reach me at my email... hlamulomoshwana@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
